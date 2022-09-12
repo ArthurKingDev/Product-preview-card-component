@@ -123,7 +123,7 @@ a {
     font-size: 0.8rem;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 480px) {
     main {
         display: flex;
         flex-direction: column;
