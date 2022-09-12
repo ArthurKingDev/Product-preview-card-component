@@ -34,7 +34,7 @@ main {
 }
 
 .product-img {
-    background-image: url(./images/image-product-desktop.jpg);
+    background-image: url(../images/image-product-desktop.jpg);
     background-size: cover;
     width: 50%;
     border-radius: 0.8rem 0 0 0.8rem;
@@ -136,7 +136,7 @@ a {
     .product-img {
         height: 15rem;
         width: 20.5rem;
-        background-image: url(./images/image-product-mobile.jpg);
+        background-image: url(../images/image-product-mobile.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         border-radius: 0.8rem 0.8rem 0 0;
